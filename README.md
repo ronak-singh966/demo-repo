@@ -1,2 +1,4 @@
 # demo-repo
-This is my first Git. Author - Ronak Singh
+This is my first Git.
+<br>
+Author - Ronak Singh
